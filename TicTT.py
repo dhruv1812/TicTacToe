@@ -1,7 +1,6 @@
 # TicTacToex
 
-
-# Step 1 - Board Design
+# Step1 - Board Design
 
 def display_board(board):
 
